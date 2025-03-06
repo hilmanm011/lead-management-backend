@@ -67,6 +67,7 @@ Once the server is running, API endpoints can be tested using **Postman**.
 ## 📝 Submission
 
 - **GitHub Repo** → [Backend Repository](https://github.com/hilmanm011/lead-management-backend)
+- **GitHub Repo** → [Fontend Repository](https://github.com/hilmanm011/lead-todolist)
 - **How to run locally** → See steps above ☝️
 
 ## 📌 License
